@@ -16,11 +16,11 @@ var pkg pkgsrc.Pkg
 
 const (
 	name     = "tmux"
-	vers     = "2.8"
+	vers     = "2.9"
 	ext      = "tar.gz"
 	url      = "https://github.com/tmux/tmux/releases/download/" + vers
 	hashType = "sha256"
-	hash     = "7f6bf335634fafecff878d78de389562ea7f73a7367f268b66d37ea13617a2ba"
+	hash     = "34901232f486fd99f3a39e864575e658b5d49f43289ccc6ee57c365f2e2c2980"
 )
 
 func checkArgs() error {
