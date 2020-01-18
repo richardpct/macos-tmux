@@ -16,7 +16,7 @@ var pkg pkgsrc.Pkg
 
 const (
 	name     = "tmux"
-	vers     = "2.9"
+	vers     = "3.0a"
 	ext      = "tar.gz"
 	url      = "https://github.com/tmux/tmux/releases/download/" + vers
 	hashType = "sha256"
