@@ -20,7 +20,7 @@ const (
 	ext      = "tar.gz"
 	url      = "https://github.com/tmux/tmux/releases/download/" + vers
 	hashType = "sha256"
-	hash     = "34901232f486fd99f3a39e864575e658b5d49f43289ccc6ee57c365f2e2c2980"
+	hash     = "4ad1df28b4afa969e59c08061b45082fdc49ff512f30fc8e43217d7b0e5f8db9"
 )
 
 func checkArgs() error {
